@@ -1,0 +1,7 @@
+*.iml
+.idea/**/*
+.idea/*
+s101plugin.state
+generated
+test-output
+target/
